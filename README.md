@@ -89,8 +89,8 @@
 | 27주차 | 2024-08-24 ~ 2024-08-30 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) |
 | 28주차 | 2024-08-31 ~ 2024-09-06 | [비슷한 단어](https://www.acmicpc.net/problem/2179) | [피자 굽기](https://www.acmicpc.net/problem/1756) | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
 | 29주차 | 2024-09-07 ~ 2024-09-13 | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) | [전기가 부족해](https://www.acmicpc.net/problem/10423) | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
-| 30주차 | 2024-09-14 ~ 2024-09-20 |  | [과외맨](https://www.acmicpc.net/problem/5213) |  |
-
+| 30주차 | 2024-09-14 ~ 2024-09-20 | [앱](https://www.acmicpc.net/problem/7579) | [과외맨](https://www.acmicpc.net/problem/5213) | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
+| 31주차 | 2024-09-21 ~ 2024-09-27 |  |  |  |
 ### 예전 버전
 
 | 구분  | 기간                    | 1                                                           | 2                                                                | 3                                                     | 4                                                           |
