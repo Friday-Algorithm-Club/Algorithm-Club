@@ -91,6 +91,7 @@
 | 29주차 | 2024-09-07 ~ 2024-09-13 | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) | [전기가 부족해](https://www.acmicpc.net/problem/10423) | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
 | 30주차 | 2024-09-14 ~ 2024-09-20 | [앱](https://www.acmicpc.net/problem/7579) | [과외맨](https://www.acmicpc.net/problem/5213) | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
 | 31주차 | 2024-09-21 ~ 2024-09-27 | [입국심사](https://www.acmicpc.net/problem/3079) | [여행 가자](https://www.acmicpc.net/problem/1976) | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) |
+| 32주차 | 2024-09-28 ~ 2024-10-04 |  |  |  |
 ### 예전 버전
 
 | 구분  | 기간                    | 1                                                           | 2                                                                | 3                                                     | 4                                                           |
